@@ -7,7 +7,7 @@ This repository contains a **toy dataset** designed to practice common SQL inter
 The dataset is lightweight but realistic, reflecting a simple **e-commerce scenario** with customers, orders, and order details.  
 
 It is used in the Medium article:  
-👉 [**“11 SQL Interview Questions You’ll Definitely Be Asked (With Simple Examples)”**](#)  
+👉 [**“11 SQL Interview Questions You’ll Definitely Be Asked (With Simple Examples)”**](https://medium.com/@moon2512/11-sql-interview-questions-youll-definitely-be-asked-with-simple-examples-9258e815784a)  
  
 
 ---
